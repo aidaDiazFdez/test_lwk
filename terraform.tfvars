@@ -1,0 +1,5 @@
+resource_group = "mytestdevweursg"
+location       = "westeurope"
+name           = "mytest"
+environment    = "dev"
+description = "Log Analytics workspace test"
